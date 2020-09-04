@@ -1,0 +1,31 @@
+Kelas A
+Web Programming 
+
+ 
+
+Nama Kelompok :
+-) Aldo Valerian (535190044)
+-) Rinaldi Revivo (535199191)
+-) Bryan Valentino Jayadi (535190019)
+-) Steven (535190002)
+-) Valentino Puendra (535190011)
+
+
+
+Tema : Website Forum
+
+ 
+
+Kami ingin membuat Website Forum yang disana akan memberikan Infomasi seputar Berita dan Infomasi yang sedang hangat - hangatnya dibicarakan saat ini.
+
+ 
+
+Tujuan :
+Tujuan nya agar pengguna dapat mencari berita/informasi dan mendapatkan berita/informasi yang terupdate.
+
+ 
+
+di website kami akan ada Menu :
+-Home sebagai Tampilan Utama Website kami
+-Category Sebagai catagori berita/ informasi yang anda inginkan
+-Contact Untuk menghubungi & bertanya seputar informasi kami serta email dan contak aktif yang dapat menghubungi kami.
